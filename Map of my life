@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#74a7ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d4e3ff",
+        "fill-opacity": 0.5,
+        "name": "Spring graduation ball"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.09665012359619,
+              51.76775556479716
+            ],
+            [
+              55.09718656539916,
+              51.76687249652116
+            ],
+            [
+              55.09861350059509,
+              51.767217758354995
+            ],
+            [
+              55.09811997413635,
+              51.76810081987678
+            ],
+            [
+              55.09665012359619,
+              51.76775556479716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Never mind the traffic lights"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.09972393512725,
+            51.7654937469196
+          ],
+          [
+            55.099809765815735,
+            51.76537422894232
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f4a4c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "the best place to meet your friend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.100072622299194,
+          51.76469363442928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#74a7ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d4e3ff",
+        "fill-opacity": 0.5,
+        "name": "Coffee with your friends is the best solution of any problem"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.101521015167236,
+              51.7630103639308
+            ],
+            [
+              55.10166585445404,
+              51.76275471380917
+            ],
+            [
+              55.102035999298096,
+              51.76286095819138
+            ],
+            [
+              55.10196089744567,
+              51.76295060169438
+            ],
+            [
+              55.10188579559326,
+              51.762980482822464
+            ],
+            [
+              55.101826786994934,
+              51.76295392182068
+            ],
+            [
+              55.1017302274704,
+              51.76307344620567
+            ],
+            [
+              55.101521015167236,
+              51.7630103639308
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#74a7ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#d4e3ff",
+        "fill-opacity": 0.5,
+        "name": "Local Bolshoy"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.102314949035645,
+              51.76165241359079
+            ],
+            [
+              55.10264754295349,
+              51.761154377557155
+            ],
+            [
+              55.10352194309234,
+              51.76137019384622
+            ],
+            [
+              55.10340929031372,
+              51.761532885443714
+            ],
+            [
+              55.103323459625244,
+              51.76151628428716
+            ],
+            [
+              55.10315716266632,
+              51.761768621208134
+            ],
+            [
+              55.102781653404236,
+              51.76169225623613
+            ],
+            [
+              55.10271728038788,
+              51.76176198078093
+            ],
+            [
+              55.102314949035645,
+              51.76165241359079
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f4a4c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The best place for your photoset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.10220766067505,
+          51.76050692250032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f4a4c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The best place for sunbathing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1031357049942,
+          51.76115769781556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f4a4c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "My Mom's workplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.10288894176483,
+          51.759876059924814
+        ]
+      }
+    }
+  ]
+}
